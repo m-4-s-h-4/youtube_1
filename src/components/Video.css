@@ -1,0 +1,13 @@
+.video-container {
+  margin-top: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+}
+
+.video-description {
+  padding: 10px;
+  text-align: center;
+  width: 80%;
+}
